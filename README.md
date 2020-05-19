@@ -8,17 +8,16 @@ This framework is based on BDD with Capybara.
 The framework generates an automatic report with prints at the end of each run.
 
 
-##Dependencies
-.Ruby version 2.6
+## Dependencies
+[Ruby version 2.6](https://www.ruby-lang.org/pt/documentation/installation/)
 
 
-##Install project
+## Install and run project
 
 Open in terminal folder project and run commands.
 
-.bundle install
+*bundle install
+*cucumber
 
-.cucumber
 
-
-The tests run automatically, and report html generated in folder logs/reports.
+The tests run automatically, and report html generated in rooter folder.

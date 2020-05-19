@@ -1,6 +1,8 @@
 #language:pt
-@only
+
 Funcionalidade: Verificar precificacao dos cursos
+Funcionalidade desenvolvida, para abranger os casos de teste
+da funcao de precificacao do site da Estrategia Concursos.
 
 Cenario: Preco parcelado
 
