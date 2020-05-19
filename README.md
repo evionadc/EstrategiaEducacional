@@ -16,8 +16,9 @@ The framework generates an automatic report with prints at the end of each run.
 
 Open in terminal folder project and run commands.
 
-*bundle install
-*cucumber
+* bundle install
+
+* cucumber
 
 
 The tests run automatically, and report html generated in rooter folder.
