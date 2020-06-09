@@ -8,4 +8,4 @@ gem 'cucumber'
 gem "webdrivers"
 gem 'selenium-webdriver'
 gem 'report_builder'
-gem 'ffi'=
+gem 'ffi'
